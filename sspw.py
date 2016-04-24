@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from urllib import request
 import json
 #z=抓取网页信息
