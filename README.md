@@ -1,5 +1,5 @@
 # Get-SS-Password-by-Python
-#首先感谢Shwdowsocks 提供的免费 fq试用。。
+首先感谢iShadowsocks提供的免费fq试用.
 
 因为使用Shwdowsocks fq时，每6小时换一次，密码，每次都要上官网，复制密码替换密码比较麻烦，又因为最近在学python所以就尝试做了个自动替换密码的小程序。
 缺点：
