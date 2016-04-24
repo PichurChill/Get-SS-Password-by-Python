@@ -1,7 +1,7 @@
 # Get-SS-Password-by-Python
 #首先感谢Shwdowsocks 提供的免费 fq试用。。
 
-因为使用Shwdowsocks fq时，每6小时换一次，密码，每次都要上官网，复制密码替换密码比较麻烦，又因为最近在学python所以就尝试做了个自动替换密码的小程序
+因为使用Shwdowsocks fq时，每6小时换一次，密码，每次都要上官网，复制密码替换密码比较麻烦，又因为最近在学python所以就尝试做了个自动替换密码的小程序。
 缺点：
 - 这一版做的还是超级简陋的，可以说，没有用到任何什么Python的特别之处，用其他任何语言也都可以轻易写出来。
 - 很多字符串查找定位什么的都是笨办法。
@@ -15,8 +15,8 @@
 ###前提：已存在配置文件（USA JP HK三个都有。。）
 - Python3.5（不晓得其他版本适用不）
 - Windows (Linux、Mac可能行)
-- 直接运行 sspw.py
 - C:\\Users\\Administrator\\Desktop\\gui-config.json 替换成你自己的配置文件
+- 直接运行 sspw.py
 
 恩。。超级不实用，除了功能都是缺点，暂时只是给自己偷懒用的。
 以后完善。
