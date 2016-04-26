@@ -13,4 +13,5 @@
 - Windows (Linux、Mac可能可以使用)
 - 将sspw.py、config.json（若第一次运行程序，初始化配置）放在ss的程序根目录
 - 直接运行 sspw.py
+- 打包了一个exe执行程序，但也请将config.json放在同目录下（以后研究多文件打包）
 
